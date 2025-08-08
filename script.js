@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     phoneElements.forEach(el => {
         el.style.cursor = 'pointer';
         el.addEventListener('click', function() {
-            window.location.href = 'tel:+15551234567';
+            window.location.href = 'tel:+18442047480';
         });
     });
 });
